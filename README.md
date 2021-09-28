@@ -27,7 +27,7 @@
 
 ### Client
 ---
-<img src="./img/clientUI.png" Width="480" Height="320" />  
+<p align="center"><img src="./img/clientUI.png" Width="480" Height="320" />  
 
 1. IP와 포트 입력으로 연결하는 UI
 2. 서버 접속/해제 버튼
