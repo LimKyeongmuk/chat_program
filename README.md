@@ -16,8 +16,7 @@
 ## UI
 ### Server
 ---
-![serverUI](https://user-images.githubusercontent.com/67509269/135074223-23522496-a953-4bf6-b012-ff7003b8f8db.PNG)
-<p align="center"> <img src="./img/serverUI.PNG" Width="480" Height="320" />  
+<p align="center"> <img src="./img/serverUI.PNG"/>  
 
 1. 포트 설정 UI
 2. 서버 기능 시작/중지 UI
@@ -28,7 +27,7 @@
 
 ### Client
 ---
-<p align="center"><img src="./img/clientUI.PNG" Width="480" Height="320" />  
+<p align="center"><img src="./img/clientUI.PNG"/>  
 
 1. IP와 포트 입력으로 연결하는 UI
 2. 서버 접속/해제 버튼
@@ -60,11 +59,11 @@
 
 ## TCP communication structure
 ---
-<p align="center"><img src="./img/structure.PNG" Width="480" Height="320" /> 
+<p align="center"><img src="./img/structure.PNG"/> 
 
 ## Program operation process
 ---
-<p align="center"><img src="./img/process.PNG" Width="640" Height="320" /> 
+<p align="center"><img src="./img/process.PNG"/> 
 
 ## Limitations
 ---
