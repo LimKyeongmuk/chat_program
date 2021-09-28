@@ -17,7 +17,7 @@
 ## UI
 ---
 ### Server
-<p align="center"> <img src="./img/serverUI.PNG"/>  
+<img src="./img/serverUI.PNG"/>  
 
 1. 포트 설정 UI
 2. 서버 기능 시작/중지 UI
@@ -27,7 +27,7 @@
 6. 현재 연결되어 있는 클라이언트 리스트 표시 UI
 
 ### Client
-<p align="center"><img src="./img/clientUI.PNG"/>  
+<img src="./img/clientUI.PNG"/>  
 
 1. IP와 포트 입력으로 연결하는 UI
 2. 서버 접속/해제 버튼
@@ -59,11 +59,11 @@
 
 ## TCP communication structure
 ---
-<p align="center"><img src="./img/structure.PNG"/> 
+<img src="./img/structure.PNG"/> 
 
 ## Program operation process
 ---
-<p align="center"><img src="./img/process.PNG"/> 
+<img src="./img/process.PNG"/> 
 
 ## Limitations
 ---
