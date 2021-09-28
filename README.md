@@ -14,8 +14,8 @@
 7. 서버 종료 후 client 확인
 
 ## UI
-### Server
 ---
+### Server
 <p align="center"> <img src="./img/serverUI.PNG"/>  
 
 1. 포트 설정 UI
@@ -26,7 +26,6 @@
 6. 현재 연결되어 있는 클라이언트 리스트 표시 UI
 
 ### Client
----
 <p align="center"><img src="./img/clientUI.PNG"/>  
 
 1. IP와 포트 입력으로 연결하는 UI
