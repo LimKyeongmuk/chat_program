@@ -16,6 +16,7 @@
 ## UI
 ### Server
 ---
+![serverUI](https://user-images.githubusercontent.com/67509269/135074223-23522496-a953-4bf6-b012-ff7003b8f8db.PNG  Width="480" Height="320")
 <p align="center"><img src="./img/serverUI.png" Width="480" Height="320" />  
 
 1. 포트 설정 UI
