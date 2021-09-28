@@ -3,6 +3,7 @@
 
 ## Video
 ---
+[![TCP/IP를 사용한 채팅 프로그램](https://img.https://www.youtube.com/watch?v=ZykT74VytFU/0.jpg)](https://www.youtube.com/watch?v=ZykT74VytFU) 
 
 1. 1234 port 지정 후 서버 시작
 2. 서버 ip, port => xml 파일생성
