@@ -18,3 +18,13 @@ C:\Users\park\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResourc
 C:\Users\park\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\park\source\repos\Client\Client\obj\Debug\Client.exe
 C:\Users\park\source\repos\Client\Client\obj\Debug\Client.pdb
+D:\Syswin\chat_program\Client\bin\Debug\Client.exe.config
+D:\Syswin\chat_program\Client\bin\Debug\Client.exe
+D:\Syswin\chat_program\Client\bin\Debug\Client.pdb
+D:\Syswin\chat_program\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Syswin\chat_program\Client\obj\Debug\Client.Form1.resources
+D:\Syswin\chat_program\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Syswin\chat_program\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Syswin\chat_program\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Syswin\chat_program\Client\obj\Debug\Client.exe
+D:\Syswin\chat_program\Client\obj\Debug\Client.pdb
